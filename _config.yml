@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title:Preston Parry
+description:"a software engineer's blog about web development, data science, learning javascript, climbing, biking, bouldering, and cycling"
+logo:HalfStache120x120.jpg
+teaser: BikeSeatFlower375x250.jpg
 locale:
 url:
 
