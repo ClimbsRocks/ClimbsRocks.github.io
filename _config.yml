@@ -3,9 +3,8 @@
 title:Preston Parry
 description:"a software engineer's blog about web development, data science, learning javascript, climbing, biking, bouldering, and cycling"
 logo:HalfStache120x120.jpg
-teaser: BikeSeatFlower375x250.jpg
-locale:
-url:
+teaser:BikeSeatFlower375x250.jpg
+url:http://localhost:4000
 
 # Jekyll configuration
 

@@ -1,11 +1,5 @@
 # Site navigation links
 
-- title:About
-  url:/About/
-  excerpt:"Who is this preston character anyway?"
-  image:
-
-  - title:Projects
-  url:/Projects/
-  excerpt:"Things I've had fun working on"
-  image:
+- title: "About"
+  url: "/About/"
+  excerpt: "Who is this preston character anyway?"
