@@ -1,20 +1,21 @@
 # Site wide configuration
 
-title:Preston Parry
-description:"a software engineer's blog about web development, data science, learning javascript, climbing, biking, bouldering, and cycling"
-logo:HalfStache120x120.jpg
-teaser:BikeSeatFlower375x250.jpg
-url:http://localhost:4000
+title: Preston Parry
+description: "a software engineer's blog about web development, data science, learning javascript, climbing, biking, bouldering, and cycling"
+logo: HalfStache120x120.jpg
+teaser: BikeSeatFlower375x250.jpg
+locale: en_US
+url: http://localhost:4000
 
 # Jekyll configuration
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: pygments
-gems:h
+gems:
   - jekyll-sitemap
 
 
