@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: "About"
-  url: "/About/"
+  url: "/About"
   excerpt: "Who is this preston character anyway?"
 
 - title: Projects
