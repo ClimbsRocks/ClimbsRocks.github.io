@@ -19,7 +19,7 @@ Say you have a favorite Wikipedia page- my current one is the [San Francisco Bik
 
 You'd probably expect that when you click on any of the links you have pointing to the Bike Coalition, they would all take you to the same page. And in fact, this is the case! 
 
-And then, because you're an awesome web citizen and you believe in contributing to the open source movement, you change something on that page. Let's say you increase the coalitions's membership count by 1 because you just joined and you're super enthusiastic about being a part of the movement. 
+And then, because you're an awesome web citizen and you believe in contributing to the open source movement, you change something on that page. Let's say you increase the coalition's membership count by 1 because you just joined and you're super enthusiastic about being a part of the movement. 
 
 Now, when you click any of those links you've created, they'll all take you to the same page, and that page now includes the updated membership count. 
 
