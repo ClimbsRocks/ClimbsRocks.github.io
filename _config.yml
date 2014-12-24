@@ -21,9 +21,11 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Preston Parry
+  web: http://www.prestonparry.com
+  email: 
+  twitter: 
+  bio: "climbs, bikes, and codes"
   google:
     ad-client: 
     ad-slot: 
