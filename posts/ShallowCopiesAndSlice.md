@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "What is a shalow copy and why is it screwing up slice() ?"
-categories: articles
+categories: coding
 modified: 2014-08-27T11:57:41-04:00
 tags: 
 toc: 

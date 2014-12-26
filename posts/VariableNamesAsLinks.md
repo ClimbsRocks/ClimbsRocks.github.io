@@ -2,6 +2,7 @@
 layout: article
 title: "Thinking of Variable Names As Links"
 date: 2014-12-22
+categories: articles
 modified:
 excerpt:
 tags: []

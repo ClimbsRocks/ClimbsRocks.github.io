@@ -2,6 +2,7 @@
 layout: article
 title: "Thinking of Variable Names As Links"
 date: 2014-12-22
+categories: climbing
 modified:
 excerpt:
 tags: []
@@ -15,7 +16,7 @@ share: false
 
 ##Variable Names as Links
 
-Say you have a favorite Wikipedia page- my current one is the San Francisco Bike Coalition. You can easily create a link to it. In fact, you can create several different links that all point to the same page. 
+Say you have a favorite Wikipedia page- my current one is the [San Francisco Bike Coalition](http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition). You can easily create a link to it. In fact, you can create several different links that all point to the same page. 
 
 You'd probably expect that when you click on any of the links you have pointing to the Bike Coalition, they would all take you to the same page. And in fact, this is the case! 
 
