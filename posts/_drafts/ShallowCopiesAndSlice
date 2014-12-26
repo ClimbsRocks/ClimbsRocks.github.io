@@ -1,14 +1,3 @@
----
-layout: article
-title: "What is a shalow copy and why is it screwing up slice() ?"
-categories: articles
-modified: 2014-08-27T11:57:41-04:00
-tags: 
-toc: 
-comments: 
-ads: 
----
-
 ShallowCopiesAndSlice
 
 Slice returns a copy of an array. This is awesome! But there's this weird line in the MDN docs that says slice 'returns a shallow copy'. The MSDN and W3Schools docs don't mention this at all, so what in the world does this mean? 

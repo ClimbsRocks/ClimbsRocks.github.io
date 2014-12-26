@@ -1,0 +1,15 @@
+Last post on N-Queens, I promise :)
+
+One of the things that really struck me about this exercise was the glaring difference between my original code (which worked), and my final code (which worked much more quickly). 
+
+At it's longest, my code was over 300 lines long, relying on a series of objects and helper functions and all kinds of loops, quite a few of them nested inside of 2 or even three outer loops. 
+
+At it's simplest, the file got down to 30 some lines of code, an entire order of magnitude decrease. 
+
+Needless to say, the final version was considerably easier to read, and several orders of magnitude quicker to run. 
+
+It was a stark reminder that writing more code is rarely the goal. 
+
+I'm trying to apply a philosophy of minimalism to my personal life. I've found I have so much less mental burden when I have fewer things. There's just less to take care of and remember. I feel so much more free when my life is simple and focused down on only a few core things. 
+
+It's fun to see that at least at a high level, the same approach works with code
