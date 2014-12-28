@@ -14,6 +14,8 @@ toc: true
 share: false
 ---
 
+##A quick way to do time testing
+
 Any post on speed testing must beign with disclaimers that speed testing is a combination of dark art, high science, and arguments on how the environment for the test does not accurately reflect how the technology is deployed in production environments. 
 
 That said, we may want to see roughly how efficient different approaches are
