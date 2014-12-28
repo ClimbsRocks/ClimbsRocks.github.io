@@ -9,22 +9,24 @@ comments:
 ads: 
 ---
 
-ShallowCopiesAndSlice
+##I've gotten weird results with `Array.slice()`. What's going on? 
 
-Slice returns a copy of an array. This is awesome! But there's this weird line in the MDN docs that says slice 'returns a shallow copy'. The MSDN and W3Schools docs don't mention this at all, so what in the world does this mean? 
+`slice()` returns a copy of an array. This is awesome! But there's this weird line in the MDN docs that says slice 'returns a shallow copy'. The MSDN and W3Schools docs don't mention this at all, so what in the world does this mean? 
 
-Let's think back for a moment to how variables work. They're basically just links to some other place on the hard drive where the actual data is stored. 
+Let's think back for a moment to [how variables work]. They're basically just links to some other place on the hard drive where the actual data is stored. 
 
-What slice does is copy over the variable, not the data that variable points to. So if you make a change to the object a variable is pointing to, the 'copied' array will still point to the object that has been changed. 
+##What hapens if there are variables in my array?
 
-Where can shallow copies get you in trouble? 
+What slice does is copy over the variable, not the data that variable points to. So if you make a change to the object a variable is pointing to, the 'copied' array will still point to the object, which has now been changed. 
+
+##Where can shallow copies get you in trouble? 
 
 Maybe you're making a timeline of all the important things in your life- namely your age, and your favorite superheroes. 
 
 var myFavoriteSuperheroes = ['Batman'];
 var importantLifeInfo = [1,myFavoriteSuperHeroes];
 
-Now your awesome (but somewhat noobish) mother wants to create a snapshot of the important moments in your life. She assumes she can use slice() to create a copy of your info for each year, and update your favoriteSuperheroes as she goes. 
+Now your awesome (but somewhat noobish) mother wants to create a snapshot of the important moments in your life. She assumes she can use `slice()` to create a copy of your info for each year, and update your `favoriteSuperheroes` as she goes. 
 
 var age1 = importantLifeInfo.slice();
 myFavoriteSuperheroes.push('Teenage Mutant Ninja Turtles');
@@ -32,14 +34,17 @@ importantLifeInfo[0] = 2;
 
 var age2 = importantLifeInfo.slice();
 
-console.log(age2) will return what you expect: 
-[2,['Batman', 'Teenage Mutant Ninja Turtles']];
+`console.log(age2)` will return what you expect: 
+`[2,['Batman', 'Teenage Mutant Ninja Turtles']]`
 
-But console.log(age1) is where people get screwed up. 
-since myFavoriteSuperheroes is just a pointer to the place on the hard drive where that data object is stored, and slice just copies over the pointer not the data object itself, console.log(age1) will log 
+But `console.log(age1)` is where people get screwed up. 
+
+##Slice copies over variables as pointers, and does not create a copy of the data each variable points to. 
+
+Remember myFavoriteSuperheroes is a pointer to the place on the hard drive where that data object is stored, and slice just copies over the pointer not the data object itself. Console.log(age1) will log 
 [1,['Batman', 'Teenage Mutant Ninja Turtles']] 
 
-There are a few ways around this: 
+##Ways to create a 'deep' copy that creates a copy of the data each variable points to
 
 1. Pass in the object itself (the object literal), rather than a variable that points to the object. 
 2. Recursion! 
