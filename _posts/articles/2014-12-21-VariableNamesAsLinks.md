@@ -16,7 +16,8 @@ share: false
 
 ##Pointing Multiple Links To The Same Page    
 
-Say you have a favorite Wikipedia page- my current one is the [San Francisco Bike Coalition](http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition). 
+Say you have a favorite Wikipedia page- my current one is the [San Francisco Bike Coalition](http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition).
+
 [`My Favorite Page`](http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition)
 
 You can easily create a link to it. In fact, you can create [several different links](http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition) that all point to [the same page](http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition).     
