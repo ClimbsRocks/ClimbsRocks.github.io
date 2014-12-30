@@ -7,8 +7,8 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
+  feature: pointingHandFull.jpg
+  teaser: pointingHand422x250.jpg
   thumb:
 toc: true
 share: false
