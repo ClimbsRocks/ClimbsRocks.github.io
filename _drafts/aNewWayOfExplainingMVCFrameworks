@@ -1,0 +1,35 @@
+a new way of explaining MVC frameworks
+Models are our soldiers. They're the ones who are actually out in foreign lands, on the ground, getting info. They hold the important stuff (the guns). They can have all kinds of funky relationships between themselves. 
+
+Have an entire section on relationships. 
+
+Collections are our generals. They control an entire column of soldiers. They can set rules for all of them to follow. Generals created order for their soldiers. Generals organize their individual soldiers so each soldier isn't just alone out in the world, unattached, but rather, is a part of something that makes more sense and is more useful than that soldier would ever be on it's own. 
+
+Views are reporters. Reporters spend all day staring at generals and soldiers and waiting for something to happen to them. 
+
+
+relationships:
+Each reporter is embedded with only one general. It wouldn't make any sense for them to be embedded with two generals at once (kinda hard to be in Iraq and Washington, D.C. simultaneously). Generals aren't tied to any specific reporter. They can have a reporter from CNN and the NYT watching them at the same time. Likewise, generals aren't allowed to seek out a reporter. They're not allowed to go hunting through bylines and trying to find email addresses and willy nilly trying to seek out a reporter to send information to. They just go about their job and if a reporter is watching, cool, but the general does not go out of their way to talk to the reporters or interact with them. Generals basically ignore reporters. It's the reporter's job to pay attention to the general, not the other way around. 
+
+Reporters have a very traditional org structure. Your bureau chief tells you what to do, and you go do it. If you're a reporter, you don't take your news update and put it directly on the front page of the NYT. You funnel your article (html) up to your bureau chief. Your bureau chief then bundles together the information he's getting from all of his reporters, packages it, and then sends it along to his boss, the editor. The editor then does some additional formatting and tweaking for the articles, then chooses where to put them on the newspaper (DOM). 
+
+Similarly, reporters can have interns. If a reporter is in the middle of writing an article, and needs a series of charts for the article, they can just call up an intern (subviews) and have the charts (html elements) made for them. 
+
+Reporters and interns don't have any say up the chain. An intern can't tell a reporter what article to write, just as a reporter can't tell a bureau chief which articles to pass on to the editor. But, occasionally reporters sleep with their bureau chiefs and get access they're not supposed to (child views occasionally are linked to parent views in ways they're not supposed to). If you think in terms of data structures, reporters (views) are a tree structure, with a strictly enforced hierarchy of parent-child relationships.  
+
+Infantrymen, on the other hand, have all kinds of crazy relationships between themselves. You've got your friends you went to high school with who are flung throughout the military, the guys you went to basic training with, that dude who took all your money at poker, and the MP who totally saved your butt that one night. There are no hard and fast rules for how infantrymen are connected. They're data stores, and data can be connected in all kinds of weird ways. In terms of a data structure, infantrymen (models) are a graph structure, with connections branching out all over the place. 
+
+Generals (collections) follow more of a mentorship model. They operate on their own with their own spheres. Say, one general is given command of the force in Baghdad. SHe operates completely independently within Baghdad, making all of her own decisions because that's within her realm of expertise. But as soon as someone comes to her and asks her something beyond her realm, she has to delegate that up the chain to her boss (prototypical inheritance). Her boss then makes the decision, and passes that back down to her for her to relay out. 
+
+Generals (collections) also have a really cool ability: if you tell them what kind of soldier (model) they control, they can magically turn every recruit they're given into that type of soldier. Say they're a mounted cavalry division (they ride horses). They'll turn every single recruit you give them into a piece of cavalry, with all the training and equipment (default values, methods) the recruit nees to be a cavalry unit. The coolest part is, generals will do this automatically if you specify which type of soldier they command ({model: cavalry}). You don't need to tell them to do this, they do it automatically. 
+
+Generals can also have all kinds of relationships amongst themselves. While they all have only one higher commander they delegate to (prototypical inheritance), they can form their own friendships and relationships between themselves as they wish. 
+
+tl;dr: 
+Models are like infantrymen: they hold all the important stuff (data), and they can have any relationships between themselves they desire (graph structure)
+
+Views are like reporters: They are assigned to just stare at one soldier, listen for when something changes, and then format that information (html) and send it up the chain (tree structure) to someone else who decides where it goes in the newspaper (DOM). It is their job to get information from soldiers, not soldiers' job to seek out a reporter and give the reporter information. 
+
+Collections are like generals: they command a large force of the same type of unit (soldiers, or models). They operate independently within their own realms, but delegate up the chain for decisions outside of their own realm (prototypical inheritance). 
+
+If you try to give a reporter a gun, or a soldier a notepad, things can get pretty messy, so let each of them focus on doing the job they're good at. 
