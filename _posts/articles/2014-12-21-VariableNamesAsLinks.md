@@ -4,7 +4,7 @@ title: "Thinking of Variable Names As Links"
 date: 2014-12-22
 categories: articles
 modified:
-excerpt:
+excerpt: "How do variables work in Javascript?"
 tags: []
 image:
   feature: pointingHandFull.jpg
