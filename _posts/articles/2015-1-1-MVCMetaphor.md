@@ -1,6 +1,6 @@
 ---
 layout: article
-title: “How Does Backbone or Any Other MVC Framework Work?”
+title: How Does Backbone or Any Other MVC Framework Work?
 date: 2015-1-1
 categories: articles
 modified:
