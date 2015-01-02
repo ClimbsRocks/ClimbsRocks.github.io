@@ -56,4 +56,5 @@ Generals (collections) also have a really cool ability: if you tell them what ki
 
 **Collections are like generals: they command a large force of the same type of unit (soldiers, or models). They operate independently within their own realms, but delegate up the chain for decisions outside of their own realm (prototypical inheritance).**
 
+
 If you try to give a reporter a gun, or a soldier a notepad, things can get pretty messy, so let each of them focus on doing the job they're good at. 
