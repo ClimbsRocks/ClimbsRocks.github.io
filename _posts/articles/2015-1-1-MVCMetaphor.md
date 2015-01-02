@@ -13,9 +13,18 @@ image:
 toc: true
 share: false
 ---
+##Two key components: behavior of each class, and relationships
+
+There are two key parts to Backbone or any other MVC framework:
+
+1. The function of each Class in isolation (our Model, our View, and our Controller)
+2. The relationships between different Classes and within each Class
+
+The part that often gets skipped, is explicitly going through the relationships. Each relationship is different, so unless you go through them all explicitly, it's easy to get overwhelmed, or to not realize all the different forms these relationships take. 
+
+This post will focus on the relationships between each Class, and will explore the functionality of each Class through that lens. 
 
 ##A new metaphor for explaining MVC frameworks
-
 **Models are our soldiers**. They're the ones who are actually out in foreign lands, on the ground, getting info. They hold the important stuff (the guns, or data). 
 
 **Collections are our generals**. They control an entire column of soldiers. They can set rules for all of them to follow. Generals create order for their soldiers. Generals organize their individual soldiers so each soldier isn't just alone out in the world, unattached, but rather, is a part of something that makes more sense and is more useful than that soldier would ever be on its own. 
@@ -24,6 +33,7 @@ share: false
 
 
 ##Relationships
+
 This gets more interesting when thinking about the relationships between soldiers, generals, and reporters. It’s easy to get overwhelmed because there are just so many different kinds of relationships. However, each one is pretty basic by itself, so we’ll just go through each one individually. 
 
 ##Reporters' Relationship with Models and Collections
