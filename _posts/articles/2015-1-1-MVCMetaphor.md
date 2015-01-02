@@ -16,11 +16,11 @@ share: false
 
 ##A new metaphor for explaining MVC frameworks
 
-Models are our soldiers. They're the ones who are actually out in foreign lands, on the ground, getting info. They hold the important stuff (the guns, or data). 
+**Models are our soldiers**. They're the ones who are actually out in foreign lands, on the ground, getting info. They hold the important stuff (the guns, or data). 
 
-Collections are our generals. They control an entire column of soldiers. They can set rules for all of them to follow. Generals create order for their soldiers. Generals organize their individual soldiers so each soldier isn't just alone out in the world, unattached, but rather, is a part of something that makes more sense and is more useful than that soldier would ever be on its own. 
+**Collections are our generals**. They control an entire column of soldiers. They can set rules for all of them to follow. Generals create order for their soldiers. Generals organize their individual soldiers so each soldier isn't just alone out in the world, unattached, but rather, is a part of something that makes more sense and is more useful than that soldier would ever be on its own. 
 
-Views are reporters. Reporters spend all day staring at generals and soldiers and waiting for something to happen to them. Once a reporter sees a change, they write a report (html) about the current state of things and ship it off for others to see. 
+**Views are reporters**. Reporters spend all day staring at generals and soldiers and waiting for something to happen to them. Once a reporter sees a change, they write a report (html) about the current state of things and ship it off for others to see. 
 
 
 ##Relationships
