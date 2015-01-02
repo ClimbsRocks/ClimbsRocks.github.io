@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "What is a shalow copy and why is it screwing up slice() ?"
+title: "What is a shallow copy and why is it screwing up slice() ?"
 categories: articles
 modified: 2014-08-27T11:57:41-04:00
 tags: 
 toc: 
 image:
   feature: 
-  teaser: shallow_end_thumb316x250.jpg
+  teaser: shallow_end_thumb316x250.jpeg
   thumb:
 comments: 
 ads: 
