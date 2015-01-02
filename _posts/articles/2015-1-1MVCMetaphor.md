@@ -7,8 +7,8 @@ modified:
 excerpt: A new way of thinking about all the pieces
 tags: []
 image:
-  feature: WebOfConnectionsFullSize.jpg
-  teaser: WebOfConnections422x250
+  feature: WebOfConnectionsHalf.jpg
+  teaser: WebOfConnections422x250.jpg
   thumb:
 toc: true
 share: false

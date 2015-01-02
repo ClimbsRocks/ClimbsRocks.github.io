@@ -7,7 +7,7 @@ tags:
 toc: 
 image:
   feature: 
-  teaser: shallow_end_thumb.jpg
+  teaser: shallow_end_thumb316x250.jpg
   thumb:
 comments: 
 ads: 
