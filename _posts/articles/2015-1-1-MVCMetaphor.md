@@ -50,10 +50,10 @@ Generals (collections) follow more of a mentorship model. They operate on their 
 Generals (collections) also have a really cool ability: if you tell them what kind of soldier (model) they control, they can magically turn every recruit they're given into that type of soldier. Say they're a mounted cavalry division (they ride horses). They'll turn every single recruit you give them into a piece of cavalry, with all the training and equipment (default values, methods) the recruit needs to be a cavalry unit. The coolest part is, generals will do this automatically if you specify which type of soldier they command ({model: cavalry}). You don't need to tell them to do this, they do it automatically. 
 
 ##tl;dr: 
-**Models are like soldiers: they hold all the important stuff (data), and they can have any relationships between themselves they desire (graph structure). It is their job to make any changes to themselves known (trigger an event). It is not their job to make sure someone’s listening to that event. 
+**Models are like soldiers: they hold all the important stuff (data), and they can have any relationships between themselves they desire (graph structure). It is their job to make any changes to themselves known (trigger an event). It is not their job to make sure someone’s listening to that event.**
 
-Views are like reporters: They are assigned to just stare at one soldier, listen for when something changes, and then format that information (html) and send it up the chain (tree structure) to someone else who decides where it goes in the newspaper (DOM). 
+**Views are like reporters: They are assigned to just stare at one soldier, listen for when something changes, and then format that information (html) and send it up the chain (tree structure) to someone else who decides where it goes in the newspaper (DOM).**
 
-Collections are like generals: they command a large force of the same type of unit (soldiers, or models). They operate independently within their own realms, but delegate up the chain for decisions outside of their own realm (prototypical inheritance). **
+**Collections are like generals: they command a large force of the same type of unit (soldiers, or models). They operate independently within their own realms, but delegate up the chain for decisions outside of their own realm (prototypical inheritance). **
 
 If you try to give a reporter a gun, or a soldier a notepad, things can get pretty messy, so let each of them focus on doing the job they're good at. 
