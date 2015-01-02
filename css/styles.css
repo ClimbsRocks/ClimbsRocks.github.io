@@ -1,7 +1,7 @@
-h1.page-lead-content {
+.page-lead-content {
   text-shadow: 0px 0px 30px rgba(0, 0, 0, 0.7);
-}
+},
 
-h2.page-lead-content {
+"wrap page-lead-content" {
   text-shadow: 0px 0px 30px rgba(0, 0, 0, 0.7);
 }
