@@ -4,12 +4,12 @@ title: "Basic Time Testing"
 date: 2014-12-27
 categories: articles
 modified:
-excerpt:
+excerpt: An easy function to do time testing
 tags: []
 image:
-feature:
-teaser:
-thumb:
+  feature:  timeTesting.jpg
+  teaser:  timeTesting422x250.jpg
+  thumb:
 toc: true
 share: false
 ---
@@ -27,11 +27,10 @@ You can either include this in a .js file that's being loaded into the page, or 
 Again, this is in no ways conclusive, but is a useful rough approximation for relative speeds as you're testing the time of different algorithms or functions
 
 
-window.timeTest = function(n, callback) {
-console.time('time');
-var returnVal =  callback(n);
-console.timeEnd('time');
-return returnVal;
-}
-
+`window.timeTest = function(n, callback) {
+  console.time('time');
+  var returnVal =  callback(n);
+  console.timeEnd('time');
+  return returnVal;
+}`
 
