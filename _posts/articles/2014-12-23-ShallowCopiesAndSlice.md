@@ -7,7 +7,7 @@ tags:
 toc: 
 image:
   feature: 
-  teaser: shallow_end_thumb316x250.jpeg
+  teaser: shallowNoDivingTeaser.jpeg
   thumb:
 comments: 
 ads: 
