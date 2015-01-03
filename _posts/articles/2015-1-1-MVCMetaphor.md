@@ -11,7 +11,8 @@ image:
   teaser: WebOfConnections422x250.jpg
   thumb:
 toc: true
-share: false
+share: true
+comments: true
 ---
 ##Two key components: behavior of each class, and relationships
 
