@@ -28,10 +28,16 @@ What slice does is copy over the variable, not the data that variable points to.
 ##Ways to create a 'deep' copy that creates a copy of the data each variable points to
 
 There are a number of difficult ways to work around this. But the easiest by far is to use JSON. 
-```js
-var mySuperNestedArr = [myFavoriteSuperHeroesArr,myFavoriteCatGifsObj,taySwiftsEntireCatalogueObj];\n
+{% highlight css linenos=table %}
+
+
+
+
+
+var mySuperNestedArr = [myFavoriteSuperHeroesArr,myFavoriteCatGifsObj,taySwiftsEntireCatalogueObj];
 var completelySeparateCopy = JSON.parse(JSON.stringify(mySuperNestedArr));
-```
+{% endhighlight %}
+
 
 When you JSON.stringify a variable, it creates a whole new object. Then you can just immediately JSON.parse it, and blam, you have your totally separate copy! 
 
