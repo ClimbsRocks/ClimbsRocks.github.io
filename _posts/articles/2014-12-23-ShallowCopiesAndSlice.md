@@ -23,11 +23,11 @@ Let's think back for a moment to [how variables work](http://prestonparry.com/ar
 
 What slice does is copy over the variable, not the data that variable points to. Say you make a change to the object a variable is pointing to. The 'copied' array will still include a variable pointing to that same object, which has now been changed. 
 
-**Slice copies over variables as pointers, and does not create a copy of the data each variable points to**
+**Slice copies over variables as pointers, and does not create a copy of the data each variable points to.**
 
-##Ways to create a 'deep' copy that creates a copy of the data each variable points to
+##How to create a 'deep' copy
 
-There are a number of difficult ways to work around this. But the easiest by far is to use JSON. 
+Creating a 'deep' copy means your new copy will have no linkages to the original object. The easiest to create a deep copy by far is to use JSON. 
 {% highlight css linenos=table %}
 
 
