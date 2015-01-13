@@ -4,7 +4,7 @@ title: "About"
 date: 2014-12-25
 excerpt: "Who I am and how I got here"
 image:
-  feature:
+  feature: BeardCollage1.jpg
   teaser:
   thumb:
 share: false
@@ -13,7 +13,7 @@ ads: false
 
 Climber, Biker, and Coder
 
-I'm a data geek hailing from Ohio. I get excited telling new stories from data sets, and finding ways to make those data useful to people. 
+I'm a software engineer and data geek hailing from Ohio. I get excited telling new stories from data sets, and finding ways to make those data useful to people. 
 
 It's easy to spark my passionate side with things that impact humans' minds: removing the things that stress us out, adding in things that bring us smiles or community, or simply removing inefficiency that prevents us from doing what we love to do. 
 
