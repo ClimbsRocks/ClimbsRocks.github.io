@@ -24,7 +24,7 @@ There are so many interesting things to get distracted by. Ask yourself ruthless
 ##3. Time Bound your investigations
 Set a clear goal for how long you are willing to dedicate to this task. While your initial time constraint may not be realistic, knowing that you're trying to figure this out in 2 minutes will prevent you from getting too distracted. Creating artificial time shortages is a great way to induce focus. 
 
-$$4. Investigate the interfaces, not the underlying functionality
+##4. Investigate the interfaces, not the underlying functionality
 Since you're so tightly time bound, don't dive deeply into how things work. Look only at the input and outputs. Source code is fun to read through, but this is not the time for that. Look only at the interfaces of what you're dealing with, not what all the smart people have built in under the surface. 
 
 ##High level
