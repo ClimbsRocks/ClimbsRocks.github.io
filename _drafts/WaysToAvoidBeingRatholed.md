@@ -7,7 +7,7 @@ excerpt: Ways to Avoid Going Down the Rabbit Hole (until you want to)
 tags: []
 image:
   feature:
-  teaser:
+  teaser: RabbitHoleTeaser.jpg
   thumb:
 toc: true
 share: false
