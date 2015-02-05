@@ -5,7 +5,7 @@ description: "a software engineer's blog about web development, data science, le
 logo: HalfStache120x120.jpg
 teaser: BikeSeatFlower375x250.jpg
 locale: en_US
-baseurl: /
+baseurl: prestonparry.com
 # url: prestonparry.com
 
 # Jekyll configuration
@@ -23,7 +23,7 @@ gems:
 # Site owner
 owner:
   name: Preston Parry
-  web: http://www.prestonparry.com
+  web: http://prestonparry.com
   email: 
   twitter: 
   bio: "climbs, bikes, and codes"
@@ -32,7 +32,7 @@ owner:
     ad-slot: 
   bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname: prestonparry.disqus.com
+disqus-shortname: prestonparry
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
