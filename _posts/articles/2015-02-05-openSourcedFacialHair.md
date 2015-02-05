@@ -8,7 +8,7 @@ excerpt: "Why I'm open sourcing my facial hair design for a week"
 tags: []
 image:
   feature: 
-  teaser: facialHairBase.jpg
+  teaser: facialHairBaseTeaser.jpg
   thumb:
 toc: true
 share: true
@@ -17,10 +17,10 @@ share: true
 ##I believe in the open source community. 
 
 There are any number of awesome things about it:
-* I've learned a ton from contributing to open source projects and getting feedback/seeing how the process of running an open source project goes
-* It maximizes keystrokes: assuming you have a finite number of keystrokes left in your lifetime, putting those into open source projects means they'll be most widely available, so the code you wrote can be used many many times
-* It encourages an ethos of giving and openness, of being primarily outwardly focused rather than inwardly focused, which meshes very well with the way I was brought up
-* Quite frankly, all the awesome things I depend on are open source, and I feel an obligation to continue the cycle
+*  I've learned a ton from contributing to open source projects and getting feedback/seeing how the process of running an open source project goes\n
+*  It maximizes keystrokes: assuming you have a finite number of keystrokes left in your lifetime, putting those into open source projects means they'll be most widely available, so the code you wrote can be used many many times\n
+*  It encourages an ethos of giving and openness, of being primarily outwardly focused rather than inwardly focused, which meshes very well with the way I was brought up\n
+*  Quite frankly, all the awesome things I depend on are open source, and I feel an obligation to continue the cycle\n
 
 ##In fact, I believe in open source so much, that I'm open sourcing my facial hair design for the next week 
 
