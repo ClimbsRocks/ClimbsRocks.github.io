@@ -12,6 +12,7 @@ image:
   thumb:
 toc: true
 share: true
+comments: true
 ---
 
 ##I believe in the open source community. 
