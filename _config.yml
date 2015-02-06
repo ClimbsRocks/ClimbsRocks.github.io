@@ -5,7 +5,7 @@ description: "a software engineer's blog about web development, data science, le
 logo: HalfStache120x120.jpg
 teaser: BikeSeatFlower375x250.jpg
 locale: en_US
-baseurl: prestonparry.com
+# baseurl: prestonparry.com
 url: prestonparry.com
 
 # Jekyll configuration
