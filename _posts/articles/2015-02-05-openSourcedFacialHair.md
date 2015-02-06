@@ -17,13 +17,7 @@ comments: true
 
 ##I believe in the open source community. 
 
-There are any number of awesome things about it:
-*  I've learned a ton from contributing to open source projects and getting feedback/seeing how the process of running an open source project goes\n
-*  It maximizes keystrokes: assuming you have a finite number of keystrokes left in your lifetime, putting those into open source projects means they'll be most widely available, so the code you wrote can be used many many times\n
-*  It encourages an ethos of giving and openness, of being primarily outwardly focused rather than inwardly focused, which meshes very well with the way I was brought up\n
-*  Quite frankly, all the awesome things I depend on are open source, and I feel an obligation to continue the cycle\n
-
-##In fact, I believe in open source so much, that I'm open sourcing my facial hair design for the next week 
+In fact, I believe in open source so much, that I'm open sourcing my facial hair design for the next week 
 
 I've found that nothing brings people together like some ridiculous facial hair. I've met so many strangers, made so many people laugh and smile, with something as simple as only shaving off one half of my mustache. 
 
@@ -37,7 +31,7 @@ The one constraint is that it has to include a mustache. I have something in min
 
 ##Current State
 My beard's roughly an inch long. I'm not sure what other info would be useful, but let me know!
-Here's the current state of my face: 
+Here's the current state: 
 ![Here's what I look like this morning](/../../images/facialHairBase.jpg)
 
 ##CONTRIBUTING.MD
