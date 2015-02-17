@@ -1,14 +1,14 @@
 ---
 layout: article
 title: "Getting started with Google BigQuery"
-date: 2015-02-15
+date: 2015-02-17
 categories: articles
 modified:
 excerpt: "Going from 0 to data"
 tags: [Google BigQuery, Big Data, Google Cloud, Google Cloud Storage, MySQL, Excel, Tableau, analytics, tutorial, getting started, introduction]
 image:
   feature: 
-  teaser: map-pin1253x158.jpeg
+  teaser: bigDataStraightAhead253x158.jpeg
   thumb:
 toc: true
 share: true
