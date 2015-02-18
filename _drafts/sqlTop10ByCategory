@@ -1,0 +1,13 @@
+describe the query used to aggregate to the top 10 by country: 
+
+SELECT repository_language, countryCode, totalActiveRepos
+FROM (
+  SELECT repository_language, countryCode, totalActiveRepos, 
+    @country_rank := IF(@current_country = countryCode, @country_rank + 1, 1) AS country_rank, @current_country := countryCode 
+  FROM countriesAggAll
+  ORDER BY countryCode, totalActiveRepos DESC
+) ranked
+WHERE country_rank <= 10;
+
+be sure to credit: 
+http://www.sqlines.com/mysql/how-to/get_top_n_each_group
