@@ -1,0 +1,12 @@
+when building out an app, it's important to stay focused on the current iteration and not get distracted building out theoretical but as yet unneeded (and un-spec'd) future functionality. 
+
+However, it's important that, where possible, you build the app to be modular enough to allow easy future development. 
+
+One way an app can become brittle is through it's api. 
+
+an easy way to avoid this is by creating versions of your api, even from the start. 
+
+so, instead of making an api call to superawesomestartup.com/getAllData, you would make a call to superawesomestartup.com/1/getAllData
+
+this way, when you create a new version of your api, you can easily switch that path to be superawesomestartup.com/2/getAllData, without breaking existing calls to v1 of your api. 
+
