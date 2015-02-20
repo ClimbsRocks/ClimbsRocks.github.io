@@ -17,11 +17,11 @@ comments: true
 
 ##Big Data is awesome. I want in. 
 Where to start? Well Google BigQuery is a very approachable place to start. 
-1. They give you 1TB of free data processing per month
-2. Free data uploads
-3. Many fun datasets already available on BigQuery
-4. Free credits to get started so you don't have to worry about a ginormous bill because of a learning error. 
-5. Easy to use GUI or command line interface
+*1. They give you 1TB of free data processing per month
+*2. Free data uploads
+*3. Many fun datasets already available on BigQuery
+*4. Free credits to get started so you don't have to worry about a ginormous bill because of a learning error. 
+*5. Easy to use GUI or command line interface
 
 ##Getting started with BigQuery, from 0 to data
 1. Create a Google BigQuery account
