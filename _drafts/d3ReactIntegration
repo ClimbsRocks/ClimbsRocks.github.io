@@ -1,0 +1,12 @@
+there seems to be an obvious opportunity to integrate React and d3. 
+
+basically, you pass us a d3 object, and we'll handle the rest. 
+
+what we have to do: 
+
+1. make sure the d3 object updates when it should. 
+2. make sure the d3 object doesn't update when it shouldn't. 
+3. return something from Render
+4. attach to the proper part of the dom
+5. fit it in with the rest of the React architecture. 
+6. possibly return a React component if necessary? that might make it super easy, but would remove customization. 
