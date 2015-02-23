@@ -1,0 +1,6 @@
+As I've laid out in previous posts, I love the Flux architecture Facebook's engineering team has introduced. 
+
+It's highly opinionated about some things (unidirectional data flows, single sources of truth, storing the minimum possible state), and rather unopionated about others (where to make your AJAX calls, how many dispatchers and stores to have, what components of it's architecture to keep for apps of different complexities). 
+
+If you're building an app in Flux and there's no clear best place to make your API calls from, I'll lay out my case for making the http requests your app needs from the store, rather than in the components.
+
