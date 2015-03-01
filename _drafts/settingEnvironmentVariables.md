@@ -5,4 +5,5 @@ reload your bash profile (reprof!)
 
 access the variables through process.env.variableName;
 
-
+talk about the problems this bypasses. 
+talk about my friend who kept getting calls from Amazon because he kept committing his keys.
