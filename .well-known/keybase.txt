@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/climbsrocks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://prestonparry.com
+  * I am climbsrocks (https://keybase.io/climbsrocks) on keybase.
+  * I have a public key with fingerprint 6C12 6952 FB2C F6FD EA61  A589 3D8F C05C 433B 5665
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "6c126952fb2cf6fdea61a5893d8fc05c433b5665",
+            "host": "keybase.io",
+            "key_id": "3d8fc05c433b5665",
+            "kid": "01013b63870a689752be06d8532b2221ad620bd15a4a7ca68f2378d278f51e387a8c0a",
+            "uid": "d7f63530ce19921b53d87d44f0cb5f19",
+            "username": "climbsrocks"
+        },
+        "service": {
+            "hostname": "prestonparry.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432837467,
+    "expire_in": 157680000,
+    "prev": "5776f10b75d99dd9538d1519e448b5a8f71644175c2dd8713199159db14f9487",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIiAnicbZJrSBRRFMd3NWMTskRMXB/QVFCsydyZufPYioySsCCTkCItnfsYHdSd
+cWZX81UQoRH0KXsSgdJSHwqLMCgwHxRGmVBBEBJkmIVSSkVFhnVH7Fv3y+We8zv/
+c//n3ofLE33J/pwbnU+au76N+p8O7oz5SqsOlbVwyCJNXLiFq6ELm2FGqqhjO2Yk
+yoU5GQNB1qBgIAEbskGoLgMdqppIVAPzEEuiiKAsQy6Pq7Zcr4LJIN2l+abFYuxQ
+YRIW/Q9fs5DgAQ9EJIuqwuuyqilQQJSXiQpFAQmCAHQiCzwiAOqSrmCGGIKoqERQ
+VAMCysp0FfM6k4styBHFkEUo8pgCTRMAgqyxQiTJ4DGCBtA80KVORK+jjMa1Zh1y
+HQvXuFxbHscSDSam3hQ8M4uQ7VA3akVs3XGa8rFVxyRsx4pa2Kpl2epo1A57xdEm
+26MbKapY1KlAZoSwabKCBuq4phXhwoCROGp6wkASBVVUJFnJ4+gR23RohekRUJFV
+ni2vDW1gklBRZAPwSIFE0wjRoKiyeQCNSpKKoK4aCpAlCSgQC4S5BSKzDqBGEJAM
+TVIVznNWH7G4sMCuqVcxSdesiujRmEO5tqGB8iU+f7JvaVKC9x98yctW/vslo0bA
+9/Hy88Ss5kK7srsjfja1pzTlxsUTM+uvJ4DiybS1WzuP16ztvfk7kD6/0b0TXP1u
+amJH4aaWsiFncmTf99zPcwVzJzM/vB3LWnd9bsO56RfVnYkHz82yd8gOhCrjK7YE
+7Ni91oudr6Vj7eQPvftq/HTt5VB20vtnwcda9qPZge5VYH4i1BeMFZf4420ZqSXp
+obms4HjgQumPqebk4S+7RzafD6dnZvto+R6jUd3pW5MUzGgtyumbIh1p4Myx6Xb3
+F+rvqt97Ip6y/XDRTAHuGS/6+in3QWhY6931xvp5dDwh3n8JDWJceCAt/9b+ovvX
+Tm1Lv+Kn667eftk7Vudv+gt8lCJV
+=XgkO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/climbsrocks
+
+==================================================================
