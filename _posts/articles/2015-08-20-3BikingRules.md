@@ -15,27 +15,27 @@ share: true
 comments: true
 
 ---
-<h1> 
+<h2> 
   Preston's Rules To Be Safe While Biking 
-</h1>
+</h2>
 
 I follow three simple rules that help me avoid the most common biking accidents and stay safe!
 
-<h3> 
+<h4> 
   1 Never ride within range of doors 
-</h3>
-<h3> 
+</h4>
+<h4> 
   2 Never ride through an intersection next to a car (always accelerate or brake before the intersection to position yourself where they HAVE to see you) 
-</h3>
-<h3> 
+</h4>
+<h4> 
   3 Always cross train tracks at AT LEAST a 45 degree angle (never parallel) 
-</h3>
+</h4>
 
 
 
-<h1> 
+<h2> 
   Why Are These Rules Important? 
-</h1>
+</h2>
 **1)** People getting out of cars are much less likely to be paying attention to the road than peopel who are driving on the road. So riding in the traffic lane decreases your risk of an accident, since the people driving cars are more likely paying attention to the road than people getting out of cars.   
 
 More importantly though, getting doored is MUCH more dangerous than getting hit by a moving car. In the unlikely chance that you do get hit by a moving car, you get to tumble and roll and dissipate the force of the impact over a long period of time. Ever watched a motorcycle race and seen them wipe out at 100+ miles an hour, tumble and roll for hundreds of feet, and then pop right back up angry that they can't continue the race because their bike is way more broken than their body? Yep, same idea on a bicycle- spreading the force of impact out over a long period of time means your body's not absorbing much of that energy. 
@@ -55,22 +55,22 @@ This is a type of accident that many experienced cyclists tend to have, out of p
 
 If you simply follow these three rules, you will avoid the major types of biking accidents that I've seen throughout this city. There are a number of more nuanced tips you'll pick up as you ride more, but if you follow these three rules, you will increase your safety dramatically. 
 
-</h2> 
+<h4> 
   Just to recap one more time: 
-</h2>
-<h2> 
+</h4>
+<h4> 
   1) Never ride within range of doors 
-</h2>
-<h2> 
+</h4>
+<h4> 
   2) Never ride through an intersection next to a car 
-</h2>
-<h2> 
+</h4>
+<h4> 
   3) Always cross train tracks at a 45 degree angle (not parallel) 
-</h2>
+</h4>
 
 If you have any other safety measures you take, please leave them in a comment below!
 
-<h5> 
+<h6> 
   Disclaimer: I am not a legal or medical expert, and these opinions are solely my own. They reflect my experiences, and are not researched, or based on broadly-observed studies with robust data. Take this as unofficial, thoroughly non-professional advice only; you are ultimately responsible for your own safety at all times. 
-</h5>
+</h6>
 
