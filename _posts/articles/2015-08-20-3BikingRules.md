@@ -13,6 +13,7 @@ image:
 toc: true
 share: true
 comments: true
+
 ---
 # Preston's Rules To Be Safe While Biking #
 
@@ -51,5 +52,5 @@ If you simply follow these three rules, you will avoid the major types of biking
 
 If you have any other safety measures you take, please leave them in a comment below!
 
-#### Disclaimer: I am not a legal or medical expert, and these opinions are solely my own. They reflect my experiences, and are not researched, or based on broadly-observed studies with robust data. Take this as advice only; you are ultimately responsible for your own safety at all times. ####
+##### Disclaimer: I am not a legal or medical expert, and these opinions are solely my own. They reflect my experiences, and are not researched, or based on broadly-observed studies with robust data. Take this as unofficial, thoroughly non-professional advice only; you are ultimately responsible for your own safety at all times. ####
 
