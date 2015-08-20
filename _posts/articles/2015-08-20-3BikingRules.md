@@ -22,13 +22,13 @@ comments: true
 I follow three simple rules that help me avoid the most common biking accidents and stay safe!
 
 <h4> 
-  1 Never ride within range of doors 
+  1. Never ride within range of doors 
 </h4>
 <h4> 
-  2 Never ride through an intersection next to a car (always accelerate or brake before the intersection to position yourself where they HAVE to see you) 
+  2. Never ride through an intersection next to a car (always accelerate or brake before the intersection to position yourself where they HAVE to see you) 
 </h4>
 <h4> 
-  3 Always cross train tracks at AT LEAST a 45 degree angle (never parallel) 
+  3. Always cross train tracks at AT LEAST a 45 degree angle (never parallel) 
 </h4>
 
 
@@ -55,9 +55,9 @@ This is a type of accident that many experienced cyclists tend to have, out of p
 
 If you simply follow these three rules, you will avoid the major types of biking accidents that I've seen throughout this city. There are a number of more nuanced tips you'll pick up as you ride more, but if you follow these three rules, you will increase your safety dramatically. 
 
-<h4> 
+<h3> 
   Just to recap one more time: 
-</h4>
+</h3>
 <h4> 
   1) Never ride within range of doors 
 </h4>
